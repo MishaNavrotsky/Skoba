@@ -54,4 +54,6 @@ textarea::placeholder {
 
 #middle {
     background-color: black;
+    height: 5px;
+
 }
